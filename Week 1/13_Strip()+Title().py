@@ -1,0 +1,6 @@
+# Strip()         --> remove white space from left to right
+# Capitalize()    --> makes the first charakter uppercase
+# Title()        --> makes the fist character of each word uppercase
+
+name = input("What's your name? ").strip().title()
+print(name)
