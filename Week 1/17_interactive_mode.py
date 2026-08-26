@@ -6,4 +6,4 @@
 >>> 2+2
 4
 >>> print("hello, word")
-Hello, word
+hello, word
